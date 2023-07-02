@@ -25,6 +25,7 @@ const leaguePricesTeam = {
     "Men's Rec League": 800,
     "Women's Rec League": 800,
     "Coed League": 600
+    
 };
 
 export default function Register() {
