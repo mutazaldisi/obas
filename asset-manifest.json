@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/obas/static/css/main.e08325fc.css",
+    "main.js": "/obas/static/js/main.a704c108.js",
+    "static/js/787.f6b2eaaf.chunk.js": "/obas/static/js/787.f6b2eaaf.chunk.js",
+    "static/media/HomeImg.jpg": "/obas/static/media/HomeImg.6d2827575694130746dd.jpg",
+    "static/media/ContactUsLogo.jpg": "/obas/static/media/ContactUsLogo.ca7a7817e1f1c86b55ae.jpg",
+    "static/media/Service2.jpg": "/obas/static/media/Service2.426581d411b129ac2b2c.jpg",
+    "static/media/Service1.jpg": "/obas/static/media/Service1.f478aeff6f3858203dee.jpg",
+    "static/media/Service3.jpg": "/obas/static/media/Service3.b6d24075f570496789eb.jpg",
+    "static/media/Logo.jpg": "/obas/static/media/Logo.356c7a00114e47baacf8.jpg",
+    "static/media/Gym1.jpg": "/obas/static/media/Gym1.223a8b512014ca3d0e21.jpg",
+    "index.html": "/obas/index.html",
+    "main.e08325fc.css.map": "/obas/static/css/main.e08325fc.css.map",
+    "main.a704c108.js.map": "/obas/static/js/main.a704c108.js.map",
+    "787.f6b2eaaf.chunk.js.map": "/obas/static/js/787.f6b2eaaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e08325fc.css",
+    "static/js/main.a704c108.js"
+  ]
+}
